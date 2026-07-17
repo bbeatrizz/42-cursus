@@ -4,20 +4,6 @@ This repository contains my progress through the 42 School Cursus, up to the **p
 
 ---
 
-## 📁 Structure
-
-42-cursus/
-│
-├── libft/
-├── ft_printf/
-├── get_next_line/
-├── push_swap/
-│
-└── README.md
-
-
----
-
 ## 🧠 Projects Overview
 
 ### 🟦 Libft
