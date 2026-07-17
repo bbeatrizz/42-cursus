@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Entornos virtuales
+venv/
+env/
+test_env/
+
+# Mypy
+.mypy_cache/
+
+# Ficheros de editor
+.vscode/
+.idea/
+*.swp
+
+# Fichero de salida del laberinto (se genera en tiempo de ejecución)
+maze.txt
